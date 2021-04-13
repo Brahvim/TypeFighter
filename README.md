@@ -1,0 +1,2 @@
+# TypeFighter
+*game.*
